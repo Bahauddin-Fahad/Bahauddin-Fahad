@@ -44,9 +44,9 @@
 
 <hr>
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bahauddin-Fahad&theme=graywhite)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bahauddin-Fahad&theme=black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
- <img src="https://github-readme-stats.vercel.app/api?username=Bahauddin-Fahad&show_icons=true&theme=graywhite&line_height=40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahauddin-Fahad&theme=graywhite&hide_langs_below=1">
+ <img src="https://github-readme-stats.vercel.app/api?username=Bahauddin-Fahad&show_icons=true&theme=black&line_height=40"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahauddin-Fahad&theme=black&hide_langs_below=1">
  
  <!-- <img width="550"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Bahauddin-Fahad&show_icons=true&locale=en&layout=compact" alt="Bahauddin Fahad" /> -->
  
