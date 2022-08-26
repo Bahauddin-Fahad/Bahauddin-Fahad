@@ -3,6 +3,8 @@
 <h2 align="center">Hi, I'm S.M. Bahauddin Fahad</h2>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahauddin-fahad&label=Profile%20views&color=0e75b6&style=flat" alt="bahauddin-fahad" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
@@ -53,5 +55,3 @@
 ![Bahauddin Fahad's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bahauddin-Fahad&bg_color=dark&color=777777&line=5194f0&point=5194f0&area=&hide_border=)
 
 </div>
-
-<hr>
